@@ -1,2 +1,2 @@
-# first
-test of git
+# FIRST
+TEST OF GIT
